@@ -1,3 +1,3 @@
 # LearningGNN
 
-Some examples of building classic Graph Neural Network models from scratch.
+Some examples of building classical Graph Neural Network models from scratch.
